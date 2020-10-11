@@ -11,3 +11,8 @@ Using existing tech it is possible to fake a website that phishes for the user's
 
 ## Recipe
 
+*  Make a VM
+*  Install & Config Seeker in it
+*  Config ngRock for app forwarding
+*  Write code to shorten resulting URL
+*  distribute links
